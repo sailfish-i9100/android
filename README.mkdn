@@ -13,7 +13,7 @@ repo init -u git://github.com/sailfish-i9100/android.git -b hybris-16.0
 ```
 Then to sync up:
 ```
-repo sync
+repo sync -c --force-sync --no-clone-bundle --no-tags
 ```
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
 
