@@ -514,8 +514,8 @@
 <!--
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
 -->
-  <!--<project path="frameworks/av" name="sailfish-i9100/frameworks_av" groups="pdk" remote="github2" revision="hybris-16.0" />
-  <project path="frameworks/base" name="sailfish-i9100/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="github2" revision="hybris-16.0" />-->
+  <project path="frameworks/av" name="sailfish-i9100/frameworks_av" groups="pdk" remote="github2" revision="hybris-16.0" />
+  <project path="frameworks/base" name="sailfish-i9100/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="github2" revision="hybris-16.0" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
 <!--
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
@@ -534,7 +534,7 @@
 <!--
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
 -->
-  <!--<project path="frameworks/native" name="sailfish-i9100/frameworks_native" groups="pdk" remote="github2" revision="hybris-16.0" />-->
+  <project path="frameworks/native" name="sailfish-i9100/frameworks_native" groups="pdk" remote="github2" revision="hybris-16.0" />
 <!--
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" remote="aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -586,7 +586,7 @@
   <project path="hardware/intel/img/psb_video" name="platform/hardware/intel/img/psb_video" groups="intel,pdk" remote="aosp" />
   <project path="hardware/interfaces" name="LineageOS/android_hardware_interfaces" groups="pdk" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" remote="aosp" />
-  <!--<project path="hardware/libhardware" name="sailfish-i9100/hardware_libhardware" groups="pdk" remote="github2" revision="hybris-16.0" />-->
+  <project path="hardware/libhardware" name="sailfish-i9100/hardware_libhardware" groups="pdk" remote="github2" revision="hybris-16.0" />
   <project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt,pdk" remote="aosp" />
   <project path="hardware/nxp/nfc" name="LineageOS/android_hardware_nxp_nfc" groups="pdk" />
